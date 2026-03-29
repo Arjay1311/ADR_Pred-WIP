@@ -599,7 +599,7 @@
             <mxPoint x="1440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i0T2L2ydF083tsmcMGAg-153" edge="1" parent="1" source="i0T2L2ydF083tsmcMGAg-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" target="i0T2L2ydF083tsmcMGAg-145">
+        <mxCell id="i0T2L2ydF083tsmcMGAg-153" edge="1" parent="1" source="i0T2L2ydF083tsmcMGAg-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0e8088, #df5981);fontColor=#5AA9E6;fillColor=#FFE45E;" target="i0T2L2ydF083tsmcMGAg-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i0T2L2ydF083tsmcMGAg-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Sequence Output : $$ [ N \ tokens \ * \ 768] $$&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;[CLS] Token : Global Representation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -608,7 +608,7 @@
         <mxCell id="i0T2L2ydF083tsmcMGAg-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Output Representations&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="330" x="1605" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="i0T2L2ydF083tsmcMGAg-149" edge="1" parent="1" source="i0T2L2ydF083tsmcMGAg-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="i0T2L2ydF083tsmcMGAg-151">
+        <mxCell id="i0T2L2ydF083tsmcMGAg-149" edge="1" parent="1" source="i0T2L2ydF083tsmcMGAg-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0e8088, #df5981);fontColor=#5AA9E6;fillColor=#FFE45E;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="i0T2L2ydF083tsmcMGAg-151">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="1116" as="targetPoint" />
           </mxGeometry>
